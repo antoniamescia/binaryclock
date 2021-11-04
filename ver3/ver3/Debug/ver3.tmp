@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\anton\Desktop\UCU\2021\Microprocesadores\LAB3\ver3\ver3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\anton\Desktop\UCU\2021\Microprocesadores\LAB3\ver3\ver3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\./m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\anton\Desktop\UCU\2021\Microprocesadores\LAB3\ver3\ver3\Debug\ver3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>ver3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>ver3.map</FILE>
+  <FILE>ver3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\anton\Desktop\UCU\2021\Microprocesadores\LAB3\ver3\ver3\main.asm</FILE><LINE>19</LINE></start>
+  <boton><FILE>C:\Users\anton\Desktop\UCU\2021\Microprocesadores\LAB3\ver3\ver3\main.asm</FILE><LINE>140</LINE></boton>
+  <_tmr0_int><FILE>C:\Users\anton\Desktop\UCU\2021\Microprocesadores\LAB3\ver3\ver3\main.asm</FILE><LINE>98</LINE></_tmr0_int>
+  <comienzo><FILE>C:\Users\anton\Desktop\UCU\2021\Microprocesadores\LAB3\ver3\ver3\main.asm</FILE><LINE>64</LINE></comienzo>
+  <loop1><FILE>C:\Users\anton\Desktop\UCU\2021\Microprocesadores\LAB3\ver3\ver3\main.asm</FILE><LINE>67</LINE></loop1>
+  <loop2><FILE>C:\Users\anton\Desktop\UCU\2021\Microprocesadores\LAB3\ver3\ver3\main.asm</FILE><LINE>77</LINE></loop2>
+  <fin><FILE>C:\Users\anton\Desktop\UCU\2021\Microprocesadores\LAB3\ver3\ver3\main.asm</FILE><LINE>81</LINE></fin>
+  <prender><FILE>C:\Users\anton\Desktop\UCU\2021\Microprocesadores\LAB3\ver3\ver3\main.asm</FILE><LINE>106</LINE></prender>
+  <_tmr0_out><FILE>C:\Users\anton\Desktop\UCU\2021\Microprocesadores\LAB3\ver3\ver3\main.asm</FILE><LINE>104</LINE></_tmr0_out>
+  <contador><FILE>C:\Users\anton\Desktop\UCU\2021\Microprocesadores\LAB3\ver3\ver3\main.asm</FILE><LINE>122</LINE></contador>
+  <retornodecontador><FILE>C:\Users\anton\Desktop\UCU\2021\Microprocesadores\LAB3\ver3\ver3\main.asm</FILE><LINE>119</LINE></retornodecontador>
+  <reset><FILE>C:\Users\anton\Desktop\UCU\2021\Microprocesadores\LAB3\ver3\ver3\main.asm</FILE><LINE>148</LINE></reset>
+  <pausa><FILE>C:\Users\anton\Desktop\UCU\2021\Microprocesadores\LAB3\ver3\ver3\main.asm</FILE><LINE>152</LINE></pausa>
+ </LABELS>
+</ASSEMBLER_INFO>
